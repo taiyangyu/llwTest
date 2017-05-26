@@ -21,6 +21,6 @@ s.source           = { :git => "https://github.com/taiyangyu/llwTest.git", :tag 
 s.platform     = :ios, '6.0'
 s.requires_arc = true
 
-s.source_files = 'llwTest/Student/*.{h,m}'
+s.source_files = 'llwTest/**/*.{h,m}'
 
 end
